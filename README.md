@@ -1,5 +1,7 @@
 # Quora-Crawler
 
+---
+
 This project makes use of the Selenium and chromedriver to crawl data from quora.com and find the questions with the most upvotes. 
 
 It starts at a specified root topic and traverses the child topics to build a hierarchy tree. 
